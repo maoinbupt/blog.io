@@ -1,19 +1,19 @@
 # Site settings
-title: 读立写生
+title: 写字的地方
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "写字的地方"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "https://maoinbupt.github.io/blog.io/"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " maoinbupt"
+  email: maoinbupt@gmail.com
+  bio: "写字的地方"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: https://avatars3.githubusercontent.com/u/9046690?v=3&s=400
 favicon: img/favicon.png
 
 douban_username:  
