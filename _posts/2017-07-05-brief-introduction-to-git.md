@@ -23,6 +23,7 @@ description: Git常用命令
 打开git bash，配置username 和email，这应与你在gitlab或者github的信息相对于
 
 `git config --global user.name "username"`
+
 `git config --global user.email "username@xxx.com"`
 
 git bash 配置ssh以访问远程仓库
